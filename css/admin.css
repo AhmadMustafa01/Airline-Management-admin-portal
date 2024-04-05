@@ -1,0 +1,25 @@
+.list-group {
+    background-color: #343a40;
+    width: 100%;
+}
+
+.list-group-item {
+    width: 100%; 
+    background-color: #343a40;
+    color: white; 
+    border-color: #343a40;
+}
+
+.list-group-item:hover {
+    background-color: #495057;
+    color: white; 
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
